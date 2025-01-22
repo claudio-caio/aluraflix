@@ -23,17 +23,3 @@
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub y incluye la etiqueta "**challengeonealuraflixlatam4**" 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
-## ¿Cómo hago la entrega final de mi proyecto?
----
-
-4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
-
-🔹 [Link del formulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-front-end)
-![image](https://user-images.githubusercontent.com/92184087/208179417-7965c06e-21d6-4174-b76a-95ec648edc00.png)
- 
- 
-
-5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este Challenge 🏆
-6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
-
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
